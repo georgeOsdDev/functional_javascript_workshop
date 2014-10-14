@@ -21,7 +21,8 @@
     "predef": [
         "angular",
         "module",
-        "$"
+        "$",
+        "console"
     ],
     "regexp": false,
     "rhino": false,
