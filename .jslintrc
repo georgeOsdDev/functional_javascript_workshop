@@ -22,7 +22,8 @@
         "angular",
         "module",
         "$",
-        "console"
+        "console",
+        "setTimeout"
     ],
     "regexp": false,
     "rhino": false,
